@@ -1,16 +1,18 @@
-# flutter_layout
+Langkah 1:Material apps
+![Gambar](image.png)
 
-A new Flutter project.
+Langkah 2:Cupertino apps
+![Gambar](image-1.png)
 
-## Getting Started
+Langkah 3:Non-Material apps
+![Gambar](image-2.png)
 
-This project is a starting point for a Flutter application.
+Langkah 4:Aligning widgets
+![Gambar](image-3.png)
 
-A few resources to get you started if this is your first Flutter project:
+Langkah 5:Packing widgets
+![Gambar](image-5.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Langkah 6:Nesting rows and columns
+![Gambar](image-4.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
