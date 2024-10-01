@@ -16,3 +16,13 @@ Langkah 5:Packing widgets
 Langkah 6:Nesting rows and columns
 ![Gambar](image-4.png)
 
+Langkah 7:Examples (GridView)
+![Gambar](image-6.png)
+
+Langkah 8:
+![Gambar](image-7.png)
+
+Langkah 9:ListView
+![Gambar](image-8.png)
+
+Langkah 10:
